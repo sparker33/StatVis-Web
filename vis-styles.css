@@ -1,0 +1,30 @@
+path.link {
+  fill: none;
+  stroke: rgb(10, 221, 45);
+  stroke-width: 1.5px;
+  stroke-dasharray: 6px,5px;
+}
+
+path.similarLink {
+  fill: none;
+  stroke: #666;
+  stroke-width: 3px;
+  stroke-dasharray: none;
+}
+
+circle {
+  stroke: #fff;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+text {
+  fill: #000;
+  font: 10px sans-serif;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+text.credit {
+  font-weight: normal;
+}
