@@ -27,3 +27,4 @@ hs_err_pid*
 run-test-server.cmd
 test-data.csv
 vis-test-page.html
+test-config.xml
